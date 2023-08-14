@@ -1,0 +1,25 @@
+{
+	"name": "forkify-recipe-app",
+	"version": "1.0.0",
+	"description": "Provides thousands of recipe",
+	"main": "index.html",
+	"targets": {
+		"main": false
+	},
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Deepak Kumar Meena",
+	"license": "ISC",
+	"dependencies": {
+		"core-js": "^3.32.0",
+		"fractional": "^1.0.0",
+		"parcel": "^2.9.3",
+		"sass": "^1.65.1"
+	},
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.9.3",
+		"process": "^0.11.10"
+	}
+}
