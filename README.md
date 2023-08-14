@@ -24,6 +24,7 @@ Recipe application with custom recipe uploads.
 </details>
 
 ## About The Project
+The "Forkify Recipe App" is a web application designed to provide users with access to thousands of recipes from various sources. Developed by Deepak Kumar Meena, this app offers a user-friendly interface that allows users to search for recipes, view detailed information, modify servings, bookmark favorite recipes, and even upload their own recipes. The project aims to deliver a seamless cooking and culinary exploration experience to users.
 
 ### Build With
 
